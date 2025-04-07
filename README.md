@@ -14,9 +14,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Hyper099&theme=dark&hide_border=false&include_all_commits=true&count_private=true)`<br/>`
-![](https://nirzak-streak-stats.vercel.app/?user=Hyper099&theme=dark&hide_border=false)`<br/>`
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyper099&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![img](https://github-readme-stats.vercel.app/api?username=Hyper099&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![img](https://nirzak-streak-stats.vercel.app/?user=Hyper099&theme=dark&hide_border=false) 
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyper099&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
