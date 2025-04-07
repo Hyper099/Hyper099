@@ -1,7 +1,9 @@
 # 💫 About Me:
 
 🤝 I’m looking to collaborate on :  Open-source projects focused on ed-tech, dev tools, or anything that helps learners and developers grow.
+
 🌱 I’m currently learning :  Advanced TypeScript patterns, microservices architecture, and deploying full-stack apps with Docker.
+
 ⚡ Fun fact:  I once debugged a React app for 3 hours only to find a missing semicolon — and I still love coding 😄
 
 ## 🌐 Socials:
@@ -15,7 +17,7 @@
 # 📊 GitHub Stats:
 
 ![img](https://github-readme-stats.vercel.app/api?username=Hyper099&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![img](https://nirzak-streak-stats.vercel.app/?user=Hyper099&theme=dark&hide_border=false) 
+![img](https://nirzak-streak-stats.vercel.app/?user=Hyper099&theme=dark&hide_border=false)
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyper099&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
